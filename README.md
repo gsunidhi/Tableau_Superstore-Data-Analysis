@@ -3,7 +3,7 @@
 This Tableau workbook contains 5 sheets with demonstrate various functionalities like LOD Expressions, Sets, Context filters, Colour schemes and Rolling Months as shown below:
 
 1. Top and Bottom Profitable Products
-![Top and Bottom Profitable Products](Dashboard.png "Top and Bottom Profitable Products")
+![Top and Bottom Profitable Products](Top_Bottom_Profits.png "Top and Bottom Profitable Products")
 
 2. Fixed LOD and Context Filters
 ![Fixed LOD and Context Filters](LOD_Filters.png "Fixed LOD and Context Filters")
